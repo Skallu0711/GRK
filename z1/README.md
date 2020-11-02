@@ -1,5 +1,4 @@
-# GRK
-Wprowadzenie
+# GRK : Wprowadzenie
 
 # Screenshots
 <img src="screenshots/print-screen1.png">

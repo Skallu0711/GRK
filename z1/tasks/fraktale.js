@@ -3,12 +3,14 @@ let b = [780, 300];
 let c = [20, 580];
 let d = [];
 
-function setup() {
+function setup() 
+{
     createCanvas(800, 600);
     frameRate(25);
 }
 
-function draw() {
+function draw() 
+{
     //noprotect
     
     background(100);
@@ -38,7 +40,8 @@ function draw() {
 
     d = a;
 
-    for (let i = 0; i < 30000; i++) {
+    for (let i = 0; i < 30000; i++) 
+{
         let r = floor(random(0, 3));
 
         switch (r) {

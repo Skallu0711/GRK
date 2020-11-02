@@ -1,5 +1,4 @@
-# GRK
-Barwy i histogram
+# GRK : Barwy i histogram
 
 # Screenshots
 <img src="screenshots/print-screen1.png">
