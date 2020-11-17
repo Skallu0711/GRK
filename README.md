@@ -5,5 +5,6 @@ PJWSTK: Computer graphics
 
 1. ["Wprowadzenie"](z1)
 2. ["Barwy i histogram"](z2)
+3. ["Algorytmy rysowania"](z3)
 
 [p5.js website](https://p5js.org/)
